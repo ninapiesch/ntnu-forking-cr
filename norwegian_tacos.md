@@ -13,4 +13,5 @@ Add all the greens you want:
 * Red onion
 * Corn
 * Ice berg salad
+* Pineapple
 
